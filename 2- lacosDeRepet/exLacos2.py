@@ -11,8 +11,7 @@ while True:
     
     if t == "Não":
         break 
-
     elif t == "Sim":
         continue 
 
-print (f"{total} - A soma dos números digitados ")
+print (f"A soma dos números digitados é {total}")

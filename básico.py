@@ -20,6 +20,3 @@
 # <= menor ou igual
 # and (e)
 # or (ou)
-
-
-
